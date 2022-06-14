@@ -1,5 +1,5 @@
 # Polar Ocean
-Python code showcasing the preprocessing, regreidding and processing of several datasets from NASA, NOAA, and the UK Center for Polar Observations and Modeling. Two versions of the code are provided:
+Python code showcasing the preprocessing, regridding and processing of several datasets from NASA, NOAA, and the UK Center for Polar Observations and Modeling. Two versions of the code are provided:
 
 `processDatasetSimple.py` is a basic version of the code that access the required input files remotely.
 
