@@ -34,6 +34,14 @@ mpirun -n 8 ./arcticEkmanPumping.py  computeStress
 ./arcticEkmanPumping.py computeEkman
 ./arcticEkmanPumping.py figures 
 
+Results from this software have been publised in the following journal articles:
+
+A.Ramadhan, J.Marshall, G.Meneghello, L.Illari, and K.Speer (2022) Observations of upwelling and downwelling around Antarctica mediated by sea ice Frontiers in Marine Science, Physical Oceanography, 
+J.E. Lenetsky, B. Tremblay, C. Brunette, G. Meneghello. (2021) Sub-Seasonal predictability of Arctic Ocean sea ice conditions: Bering Strait and Ekman-driven Ocean Heat Transport. J. Clim., doi:10.1175/JCLI-D-20-0544.1 
+G. Meneghello, E. W. Doddridge, J. Marshall, J. Scott, J-M Campin (2020) Exploring the role of the “Ice-Ocean governor” and mesoscale eddies in the equilibration of the Beaufort Gyre: lessons from observations. J. Phys. Oceanogr., 50(1), doi:10.1175/JPO-D-18-0223.1
+G. Meneghello, J. Marshall, M.-L. Timmermans and J. Scott (2018) Observations of seasonal upwelling and downwelling in the Beaufort Sea mediated by sea ice. J. Phys. Oceanogr., 48(4), 795–805. doi:10.1175/JPO-D-17-0188.1; dataset doi:10.18739/A2J678X08
+G. Meneghello, J. Marshall, S.T. Cole, and M.-L. Timmermans (2017) Observational inferences of lateral eddy diffusivity in the halocline of the Beaufort Gyre. Geophys. Res. Lett., 44. doi:10.1002/2017GL075126
+
 '''
 
 import numpy as np
